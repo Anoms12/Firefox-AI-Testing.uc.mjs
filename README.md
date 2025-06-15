@@ -34,3 +34,5 @@ Define fullPromptInput and you can send prompts to the AI, we currently just hav
 
 ## What's next?
 We would like to find the compatible models so we can find the best one for each senario.
+
+# TESTED ON NIGHTLY
